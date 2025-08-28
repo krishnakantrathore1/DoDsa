@@ -11,6 +11,7 @@ public class ReverseArray {
 
     public static void main(String[] args) {
         int[] arr = {23,54,25,67,47,43,5,36,38,82,92,76};
+
         print(arr);
         int n = arr.length;
         int i = 0; int j = n-1;

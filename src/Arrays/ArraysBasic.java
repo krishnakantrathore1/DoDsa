@@ -13,14 +13,16 @@ public class ArraysBasic {
     }
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int []arr = {3,4,62,3,5};
-        System.out.println("orginal array");
-        print(arr);
-        int [] arr2 = arr;
-        arr2[0]=8;
-        System.out.println("orginal array after the change");
-        print(arr);
-        System.out.println("arr2 after the change array");
-        print(arr2);
+//        int []arr = {3,4,62,3,5};
+//        System.out.println("orginal array");
+//        print(arr);
+//        int [] arr2 = arr;
+//        arr2[0]=8;
+//        System.out.println("orginal array after the change");
+//        print(arr);
+//        System.out.println("arr2 after the change array");
+//        print(arr2);
+
+
     }
 }
